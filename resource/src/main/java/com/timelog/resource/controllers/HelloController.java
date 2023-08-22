@@ -1,4 +1,4 @@
-package com.timelog.gateway.controllers;
+package com.timelog.resource.controllers;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;

@@ -1,4 +1,4 @@
-package com.timelog.gateway.config;
+package com.timelog.resource.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
